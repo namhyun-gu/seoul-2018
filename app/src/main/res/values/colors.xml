@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#f5b89b</color>
+
+    <color name="shadow_gradient_start">#64000000</color>
+    <color name="shadow_gradient_end">#00000000</color>
+    <color name="list_primary_text">#212121</color>
+    <color name="list_secondary_text">#666666</color>
+    <color name="image_placeholder">#F5F5F5</color>
+    <color name="divider_color">#1200001e</color>
+</resources>

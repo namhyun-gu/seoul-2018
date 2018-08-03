@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyline_normal">16dp</dimen>
+    <dimen name="keyline_small">8dp</dimen>
+    <dimen name="list_height">72dp</dimen>
+    <dimen name="list_image_size">56dp</dimen>
+    <dimen name="list_text_margin">20dp</dimen>
+    <dimen name="list_primary_height">24dp</dimen>
+    <dimen name="list_primary_size">16sp</dimen>
+    <dimen name="list_secondary_height">20dp</dimen>
+    <dimen name="list_secondary_size">14sp</dimen>
+    <dimen name="list_single_height">56dp</dimen>
+    <dimen name="toolbar_tall_content_offset">248dp</dimen>
+    <dimen name="toolbar_tall_height">280dp</dimen>
+    <dimen name="toolbar_title_image_height">160dp</dimen>
+    <dimen name="keyline_large">32dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+</resources>

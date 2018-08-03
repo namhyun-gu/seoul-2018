@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/Widget.AppTheme.TextView</item>
+    </style>
+
+    <style name="AppTheme.TranslucentStatus" parent="AppTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Widget.AppTheme.TextView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/nanum_gothic</item>
+    </style>
+
+    <style name="Widget.AppTheme.CollapsingToolbar" parent="">
+        <item name="contentScrim">@color/image_placeholder</item>
+        <item name="expandedTitleGravity">top</item>
+    </style>
+
+    <style name="Widget.AppTheme.CollapsingToolbarContent" parent="">
+        <item name="android:layout_marginTop">160dp</item>
+        <item name="android:layout_marginStart">56dp</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_gravity">top</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Widget.AppTheme.Divider" parent="">
+        <item name="android:background">@color/divider_color</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginTop">@dimen/keyline_normal</item>
+    </style>
+
+</resources>

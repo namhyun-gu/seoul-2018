@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Seoul 2018</string>
+    <string name="action_info">Info</string>
+</resources>
